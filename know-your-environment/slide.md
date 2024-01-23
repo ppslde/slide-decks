@@ -34,6 +34,7 @@ _class: lead
 <!-- 
 _paginate: hold 
 _header: Know your Environment - Features in VS2022 
+_footer: Einleitung | **Features** | Extensions | Texteditor
 -->
 ### Dokumente/Tabs 
 
@@ -93,18 +94,15 @@ _header: Know your Environment - Features in VS2022
 ---
 <!--
 _paginate: hold 
-_header: Know your Environment - Features in VS2022
--->
-### Colored tabs
-
-
----
-<!--
-_paginate: hold 
 _header: Know your Environment - Features in VS2022 
+_footer: Einleitung | **Features** | Extensions | Texteditor
  -->
 
-### Wide Scrollbar
+### Scrollbar
+
+* kann als Navigations und Suchinstrument genutzt werden
+* verschiedene Aspekte können in der Scrollleiste angezeigt/geflaggt werden
+* es können untershiedliche Breiten eingestellt werden
 
 ![center width:90%](./assets/wide_scrollbar_options.jpg)
 
@@ -112,7 +110,12 @@ _header: Know your Environment - Features in VS2022
 * können in den Optionen eingeschaltet werden  
 * verschiedene Informationen zum aktuellen Dokument können schnell erfasst werden
 -->
-
+<!--
+== Wie nutze ich das? ==
+  + zum erkennen der groben Struktur eines Dokuments
+  + zur unterstützung bei der Suche nach Verwendungen, Fehlern innerhalb eines Dokuments
+  
+-->
 ---
 <!-- 
 _class: lead 
