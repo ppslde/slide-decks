@@ -45,7 +45,6 @@ _footer: Einleitung | **Features** | Extensions | Texteditor
 
 <span style="color:red;">TODO:</span>#addscreenshot
 
-
 <!--
 == mehrreihige Tabs ==
  + Tabs können in mehreren Reihen angezeigt werden
@@ -58,7 +57,7 @@ _footer: Einleitung | **Features** | Extensions | Texteditor
  + Pin-Status kann beibehalten werden
 -->
 <!--
-== farblic gruppierte Tabs ==
+== farblich gruppierte Tabs ==
  + Tabs können farblich gruppiert werden
  + es kann nach Projekt, Extension oder einer RegEx unterschieden werden
  + Farbauswahl erfolgt automatisch, kann aber bei Bedarf angepasst werden
@@ -114,13 +113,153 @@ _footer: Einleitung | **Features** | Extensions | Texteditor
 == Wie nutze ich das? ==
   + zum erkennen der groben Struktur eines Dokuments
   + zur unterstützung bei der Suche nach Verwendungen, Fehlern innerhalb eines Dokuments
-  
 -->
 ---
 <!-- 
 _class: lead 
 -->
-## Intellisense/Intellicode
+## Extensions
+
+---
+<!--
+_paginate: hold
+_header: Know your Environment - Extensions
+_footer: Einleitung | Features | **Extensions** | Texteditor
+-->
+### Productivity Power Tools 2022
+
+* Satz von verschiedenen Extensions von Microsoft DevLabs
+* Match Margin
+* Fix Mixed Tabs
+* Solution Error Visualizer
+* Time Stamp Margin
+* [VisualStudio Marketplace](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2022)
+
+<!-- 
+== interessante Tools ==
+* Match Margin 
+    => hebt alle Textübereinstimmungen von Token an der Courser-Position im Editor hervor
+* Fix Mixed Tabs
+    => hilft bei der Verwaltung der Leerzeichen in Dokumenten und unterstützt die einheitliche Verwendung von Tabulatoren und Leerzeichen
+* Solution Error Visualizer
+    => fügt dem Projektmappen-Explorer Fehler-, Warn- und Meldungs-Kringel hinzu
+    => Informationen aus der Fehlerliste, direkt in Strukturansicht des Projektmappen-Explorers angezeigt
+    => Popup beim Hovern mit dem Mauszeiger
+* Time Stamp Margin
+    => Fügt die Zeitstempelinformationen zum Ausgabefenster im Debug-Modus hinzu: (Minuten. Sekunden. Millisekunden)
+-->
+<!--
+== Wie nutze ich das? ==
+  + zum schnelleren erkennen von Fehlern
+  + zum besseren Finden von Tokens in der Scrollleiste
+  + zur einheitlichen Formatierung
+-->
+
+---
+<!--
+_paginate: hold
+_header: Know your Environment - Extensions
+_footer: Einleitung | Features | **Extensions** | Texteditor
+-->
+### The Essentials
+
+* Satz von verschiedenen Extensions von Mads Kristensen
+* Tweaks
+* Output Enhancer
+* File Icons
+* Insert GUID
+
+<!-- 
+== interessante Tools ==
+  * Tweaks
+      => verschiedene Features und Funktionen aus Funktionsvorschläge und Problemberichtstickets
+      => die Liste der Funktionen stammt aus der Visual Studio Developer Community
+  * Output Enhancer
+      => fügen Sie dem Visual Studio-Ausgabefenster ein Styling hinzu
+  * File Icons
+      => fügt Symbole für Dateien hinzu, die vom Solution Explorer nicht erkannt werden
+  * Insert GUID
+      => macht es einfach, eine neue GUID in jeden Editor und jedes Eingabefeld einzufügen
+-->
+<!--
+== Wie nutze ich das? ==
+  + Tweaks: Find File in SolutionExplorer
+  + Tweaks: Default zoom Level
+  + erhöehen der Übersichlichkeit und Usability
+-->
+
+---
+<!--
+_paginate: hold
+_header: Know your Environment - Extensions
+_footer: Einleitung | Features | **Extensions** | Texteditor
+-->
+### weitere nützliche Extensions
+
+* Rainbow Braces
+* Trailing Whitespace Visualizer
+* SonarLint for Visual Studio
+
+<!-- 
+== Extensions ==
+  * Rainbow Braces
+      => Farbliche Kennzeichnung passender Klammerpaare zur einfachen Identifizierung der Paare und ihres Anwendungsbereichs
+  * Trailing Whitespace
+      => markieren und entfernen Sie alle Leerzeichen am Ende einer Zeile
+  * SonarLint
+      => SonarLint hilft Bugs, Code Smells und Sicherheitsschwachstellen in-IDE zu erkennen und zu beheben
+-->
+
+---
+<!-- 
+_class: lead 
+-->
+## Texteditor
+
+---
+<!-- 
+_paginate: hold
+_header: Know your Environment - Texteditor
+_footer: Einleitung | Features | Extensions | **Texteditor**
+-->
+### CodeLens
+
+---
+<!-- 
+_paginate: hold
+_header: Know your Environment - Texteditor
+_footer: Einleitung | Features | Extensions | **Texteditor**
+-->
+### IntelliCode
+
+---
+<!-- 
+_paginate: hold
+_header: Know your Environment - Texteditor
+_footer: Einleitung | Features | Extensions | **Texteditor**
+-->
+### IntelliSense
+
+---
+<!-- 
+_paginate: hold
+_header: Know your Environment - Texteditor
+_footer: Einleitung | Features | Extensions | **Texteditor**
+-->
+### Code Snippets
+
+---
+<!-- 
+_paginate: hold
+_header: Know your Environment - Texteditor
+_footer: Einleitung | Features | Extensions | **Texteditor**
+-->
+### ShortCuts
+
+* Strg K C, Strg K U
+* Breakpoints
+* Format Document 
+* F12 => To Definition
 
 ---
 <!--
@@ -129,27 +268,8 @@ _header: Know your Environment - Intellisense/Intellicode
 -->
 ### References 
 
-* References => method, prop, class
-* Shorts => ctor, prop
 * Analyzer hints 
 * Git hints
-
----
-
-# Extensions
-* Solution coloring
-* Error visualization 
-* Productivity PowerTools
-* Mark Selection in Bar
-* Colored build output
-
----
-
-# Shortcuts
-* Strg K C, Strg K U
-* Breakpoints
-* Format Document 
-* F12 => To Definition
 
 ---
 
