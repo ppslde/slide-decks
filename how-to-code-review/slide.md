@@ -275,7 +275,7 @@ If possible or useful add code examples
 Don’t try to fix everything
 Use lables, e.g. "minor: xxx", "major: "hint: xxx"
 Add praise to good implementation
-Found X issues, raise all at once => then: let people fix them if found more critical BUT: don′t change your mind or start challenging the design
+Found X issues, raise all at once=> then: let people fix themif found more critical BUT: don′t change your mind or start challenging the design
 Iterations Commenting On PRs
 
 have a maximum on iterations for review e.g. 2 iterations
