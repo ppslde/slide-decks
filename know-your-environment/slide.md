@@ -25,6 +25,19 @@ Don‘t become a slave of your IDE
 ---
 <!-- 
 header: Know your Environment
+-->
+
+## Agenda
+
+* Features
+* Extensions
+* Texteditor
+
+
+
+---
+<!-- 
+header: Know your Environment
 _class: lead
 -->
 
@@ -248,6 +261,34 @@ _footer: Einleitung | Features | Extensions | **Texteditor**
 -->
 ### Code Snippets
 
+* vorgefertigte bzw. defineirte Codeteile
+* immer wiederkehrende Muster können einfach/schnell eingefügt werden
+* Code-Snippets können interaktiv sein, d.h. man kann ähnlich einem Wizard durchgeleitet werden
+* es können eigene Code-Snippets geschrieben/erstellt werden
+
+Eigene Snippets zeigen
+=> dst für eingene Todos zeigen
+=> aaa für Arrange/Act/Assert
+
+---
+<!-- 
+_paginate: hold
+_header: Know your Environment - Texteditor
+_footer: Einleitung | Features | Extensions | **Texteditor**
+-->
+### Code Snippets
+
+* ctor
+* foreach
+* try
+* prop
+
+<!--
+== Wie nutze ich das? ==
+  + Tipparbeit sparen und schnelleres Arbeiten
+  + meine eigenen Kommentare, um nicht immer alles schreiben zu müssen
+-->
+
 ---
 <!-- 
 _paginate: hold
@@ -256,11 +297,18 @@ _footer: Einleitung | Features | Extensions | **Texteditor**
 -->
 ### ShortCuts
 
+* Visual studio bietet einige nützliche Schortcuts
 * Strg K C, Strg K U
 * Breakpoints
 * Format Document 
 * F12 => To Definition
 
+<!--
+== Wie nutze ich das? ==
+  + Zeitersparnis allgemein
+  + Klick und Mausvermeidung für immer wieder kehrende Aufgaben
+  + Wegfall des "ewigen" Suchens in den Menus
+-->
 ---
 <!--
 _paginate: hold
